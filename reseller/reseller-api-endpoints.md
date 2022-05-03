@@ -5,7 +5,7 @@ description: This page details the Reseller API Endpoints and links to the exter
 
 # Reseller API Endpoints
 
-For details about the API endpoints, see the [Reseller API Endpoint Specification](https://raw.githubusercontent.com/unstoppabledomains/website-api-docs-v2/master/openapi.yaml). These endpoints are specified in OpenAPI format, which provides an interactive API explorer in which you can try out sample API calls.
+For details about the API endpoints, see the our [Reseller API Reference](https://docs.unstoppabledomains.com/openapi/reference/) or our [Raw OpenAPI Specification](https://raw.githubusercontent.com/unstoppabledomains/website-api-docs-v2/master/openapi.yaml). These endpoints are specified in OpenAPI format, which provides an interactive API explorer in which you can try out sample API calls.
 
 The Reseller API endpoints are as follows:
 
